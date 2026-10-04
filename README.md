@@ -51,8 +51,7 @@ examples.
 
 ## 🔒 Security
 
-Please do not report security problems in a public issue. Write to
-[useval.io](https://useval.io) instead.
+Please do not report security problems in a public issue. Write to info@useval.ai instead.
 
 ## Built by Val
 
